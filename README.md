@@ -1,9 +1,9 @@
 #### first step after install
 ```
-su
-apt install sudo
-usermod -a -G sudo best
-exit
+$ su
+$ apt install sudo
+$ usermod -a -G sudo best
+$ exit
 ```
 
 
