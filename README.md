@@ -2,8 +2,9 @@
 ```
 $ su
 $ apt install sudo
-$ usermod -a -G sudo best
+$ /sbin/usermod -a -G sudo best
 $ exit
+$ logout
 ```
 
 
