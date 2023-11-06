@@ -89,6 +89,6 @@ sudo apt install -y neovim
 
 
 
-sudo apt autoremove
+# sudo apt autoremove
 
-printf "\e[1;32mDone! you can now reboot.\e[0m\n"
+# printf "\e[1;32mDone! you can now reboot.\e[0m\n"
