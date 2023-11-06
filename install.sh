@@ -4,7 +4,7 @@
 sudo apt install -y xorg xserver-xorg
 
 #  Install python3
-sudo apt install -y python3 python3-pip python3-venv python3-v-sim python3-dbus-dev
+sudo apt install -y python3 python3-pip python3.11-venv python3-v-sim python3-dbus-dev gcc python-dev-is-python3
 
 # Qtile requirements
 sudo apt install -y libpangocairo-1.0-0 python3-xcffib python3-cairocffi
